@@ -1,0 +1,17 @@
+# Angular CLI files
+/.angular
+/angular.json
+/tsconfig.json
+/tslint.json
+
+# Node modules
+/node_modules
+
+# Build outputs
+/dist
+/build
+
+# Other files
+/.DS_Store
+/thumbs.db
+/desktop.ini
